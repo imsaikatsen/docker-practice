@@ -1,6 +1,6 @@
 # Dockerized Node.js App
 
-This is a simple Express.js application containerized with Docker.
+This is a simple Express.js application containerized with Docker ..
 
 ---
 
